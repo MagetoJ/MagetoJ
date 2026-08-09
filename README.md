@@ -1,5 +1,6 @@
-
 # Hi, I'm Jabez 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=MagetoJ&color=blue&style=flat-square)
 
 Full-Stack Software Engineer based in Nairobi, Kenya — building SaaS products for African markets, from schools to bars to safaris.
 
@@ -9,6 +10,16 @@ Currently **Lead Software Developer at StatBricks**, and building independently 
 - 🍹 **[Maria POS](https://github.com/MagetoJ/Maria-POS)** — a bar & restaurant point-of-sale system
 - 📱 **Smartbiz** — an offline-first mobile POS with sync-on-reconnect
 - 🦁 Also run **CNJ Safaris**, a tour company for international travelers to Kenya
+
+🔭 **Currently working on:** RBAC hardening and CBC course tracking for EduKE
+📌 **Open to:** freelance/contract engineering work — reach out below
+
+---
+
+### 📊 GitHub Stats
+
+![Jabez's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagetoJ&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MagetoJ&hide_border=true)
 
 ---
 
@@ -53,24 +64,14 @@ I also run **CNJ Safaris**, applying the same product mindset to Kenya's tourism
 
 ### 📫 Reach me
 - GitHub: [@MagetoJ](https://github.com/MagetoJ)
+- LinkedIn: [Jabez Mochiemo](https://www.linkedin.com/in/jabez-mochiemo-4ab567423)
+- Email: [jabezmochiemo@gmail.com](mailto:jabezmochiemo@gmail.com)
+
+Open to freelance/contract work in full-stack development — feel free to reach out.
 
 <!--
 💡 To make this your profile README:
 1. Create a new repo named exactly "MagetoJ" (must match your GitHub username)
 2. Make it public, initialize with this README.md
 3. It will automatically appear at the top of your GitHub profile
--->
-<!--
-**MagetoJ/MagetoJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
