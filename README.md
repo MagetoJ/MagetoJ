@@ -120,11 +120,12 @@ Offline-first point-of-sale system built for hospitality and retail venues.
 - **Documentation** — writing comments, technical specs, and READMEs so others (including future-me) can understand and use the code.
 
 **Common specializations**
-- **Frontend** — user-facing interfaces: what people see and interact with in a browser or app.
-- **Backend** — servers, databases, APIs: the logic and data behind the scenes.
-- **Full-stack** — a mix of both.
-- **DevOps/Infrastructure** — deployment pipelines, cloud infrastructure, reliability.
-- **Mobile** — iOS/Android app development.
+- **Frontend** — React, TypeScript, JavaScript, Vite, CSS
+- **Backend** — Python, FastAPI, Async SQLAlchemy, REST API Design, Node.js
+- **Databases** — PostgreSQL, MongoDB
+- **DevOps/Infrastructure** — Kubernetes, Docker, Git, CI/CD.
+- **Mobile** — Android app development.
+- **Architecture & Tools** — Role-Based Access Control (RBAC), Multi-Tenant SaaS, Microsoft Dynamics 365 Business Central, AWS
 
 **Skills involved**
 Beyond coding itself, the job leans heavily on problem-solving, breaking ambiguous requirements into concrete steps, understanding trade-offs (speed vs. cost vs. reliability), and communicating technical decisions to non-technical stakeholders.
