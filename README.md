@@ -56,9 +56,6 @@ Offline-first POS built as a PWA.
 
 ---
 
-### 🌍 Beyond code
-
-I also run **CNJ Safaris**, applying the same product mindset to Kenya's tourism industry — planning, pricing, and packaging safari experiences for international travelers.
 
 ---
 
