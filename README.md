@@ -6,7 +6,7 @@ Software Engineer building scalable, high-performance web applications — based
 
 Currently **Software Engineer at StatBricks**, and building independently as a founder on the side.
 
-**8+ years in software · 10+ technologies**
+**3+ years in software · 10+ technologies**
 
 📌 **Open to:** freelance/contract work, consulting, and collaborations — remote or relocation. Reach out below.
 
