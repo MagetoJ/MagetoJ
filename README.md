@@ -9,9 +9,9 @@ Currently **Lead Software Developer at StatBricks**, and building independently 
 - 🏫 **[EduKE](https://github.com/MagetoJ/EduKE-)** — a multi-tenant school management SaaS for Kenyan schools (CBC-aligned)
 - 🍹 **[Maria POS](https://github.com/MagetoJ/Maria-POS)** — a bar & restaurant point-of-sale system
 - 📱 **Smartbiz** — an offline-first mobile POS with sync-on-reconnect
-- 🦁 Also run **CNJ Safaris**, a tour company for international travelers to Kenya
 
-🔭 **Currently working on:** RBAC hardening and CBC course tracking for EduKE
+
+
 📌 **Open to:** freelance/contract engineering work — reach out below
 
 ---
