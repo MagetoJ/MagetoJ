@@ -25,7 +25,7 @@ I'm passionate about building practical, scalable SaaS products for African mark
 
 * GitHub: [MagetoJ](https://github.com/MagetoJ)
 * LinkedIn: [Jabez Mochiemo](https://www.linkedin.com/in/jabez-mochiemo-4ab567423)
-* Email: [jabezmochiemo@gmail.com](mailto:jabezmochiemo@gmail.com)
+* X: [@jabezmochiemo](https://x.com/jabezmochiemo)
 * Portfolio: [jabezmochiemo.netlify.app](https://jabezmochiemo.netlify.app/)
 
 📬 Open to freelance/contract work, consulting, and collaborations — let's build something great together!
