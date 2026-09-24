@@ -13,7 +13,7 @@ I'm passionate about building practical, scalable SaaS products for African mark
 * **Backend:** Python, FastAPI, Async SQLAlchemy, REST API Design, Node.js
 * **Frontend:** React, TypeScript, JavaScript, Vite
 * **Databases:** PostgreSQL, MongoDB
-* **DevOps & Cloud:** Docker, Kubernetes, Git/GitHub, Linux Administration, CI/CD, AWS
+* **DevSecOps & Cloud:** Docker, Kubernetes, Git/GitHub, Linux Administration, CI/CD, AWS
 * **Architecture & Tools:** Role-Based Access Control (RBAC), Multi-Tenant SaaS, Microsoft Dynamics 365 Business Central
 
 ## 📈 GitHub Stats
