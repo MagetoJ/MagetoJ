@@ -1,5 +1,5 @@
 # Jabez Mochiemo
-🌟 Software Engineer | Full-Stack Development, Cloud & Systems Architecture
+🌟 Software Engineer | Full-Stack Development, Cloud & Systems Engineer.
 
 ## About Me
 I am a results-driven Software Engineer with extensive experience building scalable backend systems, cloud-native applications, and enterprise-grade business solutions. I specialize in designing secure APIs, distributed architectures, and high-availability systems, with a strong focus on software architecture, system optimization, and automation. I've led cloud migration projects and built production-grade systems that handle millions of transactions.
