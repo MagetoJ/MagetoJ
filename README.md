@@ -30,66 +30,23 @@ I'm a **results-driven Software Engineer and Odoo Techno-Functional Consultant**
 |:---:|:---:|:---:|:---:|:---:|
 | **Odoo 17 / 18** | **Python · FastAPI** | **React · Next.js** | **PostgreSQL** | **Docker · AWS** |
 
-| 🚀 Flagship Projects | 🧩 Architecture Styles | 🌍 Based In | 🤝 Availability |
-|:---:|:---:|:---:|:---:|
-| **2** (UMTI ERP, MilkOS) | **3** (SaaS, Offline-First, Microservices) | **Nairobi, KE** | **Open for contracts** |
-
 </div>
-
----
-
-## 🌟 Flagship Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 UMTI ERP Platform
-A TVET educational management platform built on **Odoo 17/18 Enterprise**.
-
-**Highlights**
-- 🧱 Custom modules: Payroll, Grading & Logistics
-- 📄 QWeb PDF reports
-- 💰 Sales commission payroll system
-
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🥛 MilkOS Offline-First Engine
-A field collection network platform designed to keep working without connectivity.
-
-**Highlights**
-- 🔌 Web Bluetooth API integration with weighing scales and printers
-- 📴 Offline-first architecture
-- 📲 Africa's Talking SMS integration
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🚀 What I Do
 
-| | Focus Area | What I Build |
+| | Focus Area | Expertise |
 |:---:|:---|:---|
-| 🏢 | **ERP & Enterprise Systems** | Custom Odoo 17/18 Enterprise modules, QWeb reports, sales commission payroll systems, and TVET educational management platforms |
+| 🏢 | **ERP & Enterprise Systems** | Custom Odoo 17/18 Enterprise modules, QWeb reports, payroll and commission systems |
 | ⚡ | **Backend & Distributed Systems** | Async microservices in Python (FastAPI, Async SQLAlchemy) and scalable Node.js architectures optimized for high availability |
-| 🔌 | **Hardware & Offline-First Tech** | Web Bluetooth integrations with physical weighing scales and printers for field collection networks |
-| ☁️ | **DevOps & Infrastructure** | Containerized multi-service stacks (Docker Compose, PostgreSQL, Nginx) on Ubuntu servers, AWS, Render, Netlify and Supabase |
+| 🔌 | **Hardware & Offline-First Tech** | Web Bluetooth integrations with physical devices such as scales and printers |
+| ☁️ | **DevOps & Infrastructure** | Containerized multi-service stacks on Ubuntu servers, AWS, Render, Netlify and Supabase |
 | 🤖 | **Currently Exploring** | Multi-agent AI workflows with LangGraph and local Ollama |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skill Set
 
 <div align="center">
 
@@ -97,11 +54,7 @@ A field collection network platform designed to keep working without connectivit
 
 </div>
 
-<details open>
-<summary><b>📋 Full Skills Matrix</b></summary>
-<br/>
-
-| Category | Tools & Technologies |
+| Category | Skills |
 |:---|:---|
 | 🏢 **ERP & Enterprise** | Odoo 17/18 Enterprise (Custom ORM, QWeb PDF Reports), Dynamics 365 |
 | ⚙️ **Backend & APIs** | Python 3.14, FastAPI, Async SQLAlchemy, Node.js, REST APIs |
@@ -109,8 +62,6 @@ A field collection network platform designed to keep working without connectivit
 | 🗄️ **Databases** | PostgreSQL, Supabase, MongoDB |
 | ☁️ **DevOps & Infrastructure** | Docker, Docker Compose, Linux (Ubuntu), Git/GitHub, AWS, Nginx |
 | 🔗 **Integrations & AI** | Web Bluetooth API, Africa's Talking SMS, LangChain, LangGraph |
-
-</details>
 
 ---
 
