@@ -1,4 +1,4 @@
-# Hi there, I'm Jabez Mochiemo 👋 
+# Hi there, I'm Jabez Mochiemo 👋
 ### 🌟 Software Engineer | Full-Stack, ERP Systems & Cloud Architect
 
 ```python
@@ -22,19 +22,4 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-🚀 About Me & Impact
-I am a results-driven Software Engineer and Odoo Techno-Functional Consultant specializing in building scalable backend architectures, custom enterprise resource planning (ERP) suites, and cloud-native applications tailored for African and emerging markets.
-
-🏢 ERP & Enterprise Systems: Building custom Odoo 17/18 Enterprise modules, QWeb reports, sales commission payroll systems, and TVET educational management platforms (UMTI ERP).
-
-⚡ Backend & Distributed Architecture: Designing async microservices in Python (FastAPI, Async SQLAlchemy) and scalable Node.js architectures optimized for high availability.
-
-🔌 Hardware & Offline-First Solutions: Integrating Web Bluetooth APIs with physical scales and printers for logistics and collection networks (MilkOS).
-
-☁️ DevOps & Infrastructure: Orchestrating containerized multi-service stacks (Docker Compose, PostgreSQL, Nginx) deployed across Linux/Ubuntu servers, AWS, Render, Netlify, and Supabase.
-
-🛠️ Tech Stack & Arsenal
-📊 GitHub Metrics & Activity Stats
-⚡ Contribution Graph Activity
-🌍 Let's Connect & Collaborate
-📬 Open for freelance/contract work, Odoo techno-functional consulting, custom ERP module development, and high-impact engineering projects.
+🚀 About Me & ImpactI am a results-driven Software Engineer and Odoo Techno-Functional Consultant specializing in building scalable backend architectures, custom enterprise resource planning (ERP) suites, and cloud-native applications tailored for African and emerging markets.🏢 ERP & Enterprise Systems: Building custom Odoo 17/18 Enterprise modules, QWeb reports, sales commission payroll systems, and TVET educational management platforms (UMTI ERP).⚡ Backend & Distributed Architecture: Designing async microservices in Python (FastAPI, Async SQLAlchemy) and scalable Node.js architectures optimized for high availability.🔌 Hardware & Offline-First Solutions: Integrating Web Bluetooth APIs with physical scales and printers for logistics and collection networks (MilkOS).☁️ DevOps & Infrastructure: Orchestrating containerized multi-service stacks (Docker Compose, PostgreSQL, Nginx) deployed across Linux/Ubuntu servers, AWS, Render, Netlify, and Supabase.🛠️ Tech Stack & Arsenal📊 Engineering MetricsMetricDetailsPrimary StackPython, Odoo 17/18, TypeScript, FastAPI, PostgreSQLArchitecturesMulti-Tenant SaaS, Offline-First Systems, REST APIsDevOps & CloudDocker Compose, AWS, Linux/Ubuntu, CI/CDActive FocusUMTI ERP Platform, MilkOS Hardware Integration, LangGraph AI🌍 Let's Connect📬 Open for freelance/contract work, Odoo techno-functional consulting, custom ERP module development, and high-impact engineering projects.
