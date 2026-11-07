@@ -1,38 +1,40 @@
-Jabez Mochiemo
-🌟 Software Engineer | Full-Stack, ERP Systems & Cloud Engineer
+# Hi there, I'm Jabez Mochiemo 👋 
+### 🌟 Software Engineer | Full-Stack, ERP Systems & Cloud Architect
 
-About Me
-I am a results-driven Software Engineer and Odoo Techno-Functional Consultant with extensive experience building scalable backend systems, custom enterprise resource planning (ERP) suites, and cloud-native applications. I specialize in designing secure APIs, distributed architectures, and high-availability systems—ranging from custom Odoo 17/18 Enterprise module development and Python microservices to offline-first IoT integrations and multi-tenant platforms.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Jabez Mochiemo"
+        self.role = "Software Engineer & Odoo Techno-Functional Consultant"
+        self.location = "Nairobi, Kenya 🇰🇪"
+        self.code = ["Python", "FastAPI", "TypeScript", "React", "Odoo 17/18", "SQL"]
+        self.tools = ["Docker", "PostgreSQL", "Linux/Ubuntu", "Git", "AWS", "LangChain"]
+        
+    def get_current_focus(self):
+        return {
+            "enterprise": "Custom Odoo 17/18 Enterprise Modules (Payroll, Grading & Logistics)",
+            "flagship_projects": ["UMTI ERP Platform", "MilkOS Offline-First Engine"],
+            "exploring": "Multi-Agent AI Workflows (LangGraph & Local Ollama)"
+        }
 
-I've led full-stack deployments, cloud migrations, and production-grade software projects tailored for real-world impact. I am passionate about building practical, scalable SaaS products and enterprise solutions for African markets—from TVET school management platforms (UMTI ERP) and agricultural milk collection networks (MilkOS) to custom commission payroll engines, logistics tools, and point-of-sale PWAs.
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build scalable systems for emerging markets.")
 
-Focus areas: Enterprise Resource Planning (Odoo 17/18 & Dynamics 365) · Backend System Design · Cloud Architecture · Distributed & Offline-First Systems · DevOps & Infrastructure · Database Optimization
+me = Developer()
+me.say_hi()
+🚀 About Me & Impact
+I am a results-driven Software Engineer and Odoo Techno-Functional Consultant specializing in building scalable backend architectures, custom enterprise resource planning (ERP) suites, and cloud-native applications tailored for African and emerging markets.
 
-🛠️ Tools & Technologies I Use
-ERP & Enterprise Systems: Odoo 17/18 Enterprise (Custom Module Development, ORM, QWeb PDF Reporting), Microsoft Dynamics 365 Business Central
+🏢 ERP & Enterprise Systems: Building custom Odoo 17/18 Enterprise modules, QWeb reports, sales commission payroll systems, and TVET educational management platforms (UMTI ERP).
 
-Backend & APIs: Python, FastAPI, Async SQLAlchemy, REST API Design, Node.js
+⚡ Backend & Distributed Architecture: Designing async microservices in Python (FastAPI, Async SQLAlchemy) and scalable Node.js architectures optimized for high availability.
 
-Frontend: React, Next.js, TypeScript, JavaScript, Vite, Tailwind CSS
+🔌 Hardware & Offline-First Solutions: Integrating Web Bluetooth APIs with physical scales and printers for logistics and collection networks (MilkOS).
 
-Databases: PostgreSQL, Supabase, MongoDB
+☁️ DevOps & Infrastructure: Orchestrating containerized multi-service stacks (Docker Compose, PostgreSQL, Nginx) deployed across Linux/Ubuntu servers, AWS, Render, Netlify, and Supabase.
 
-DevSecOps & Cloud: Docker & Docker Compose, Kubernetes, Git/GitHub, Linux (Ubuntu Administration), CI/CD, AWS, Render, Netlify
-
-Hardware & Integrations: Web Bluetooth API (Scale & Printer Integration), SMS Gateways (Africa's Talking), Multi-Agent AI (LangChain / LangGraph)
-
-Architecture & Security: Role-Based Access Control (RBAC), Multi-Tenant SaaS Systems, Offline-First Architecture
-
-📈 GitHub Stats
-GitHub: MagetoJ
-
-🌍 Let's Connect
-GitHub: MagetoJ
-
-LinkedIn: Jabez Mochiemo
-
-X: @jabezmochiemo
-
-Portfolio: jabezmochiemo.netlify.app
-
-📬 Open to freelance/contract work, Odoo techno-functional consulting, custom module development, and enterprise collaborations—let's build something great together!
+🛠️ Tech Stack & Arsenal
+📊 GitHub Metrics & Activity Stats
+⚡ Contribution Graph Activity
+🌍 Let's Connect & Collaborate
+📬 Open for freelance/contract work, Odoo techno-functional consulting, custom ERP module development, and high-impact engineering projects.
