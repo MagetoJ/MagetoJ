@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jabez%20Mochiemo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Odoo%20Techno-Functional%20Consultant&descAlignY=58&descSize=18" alt="Jabez Mochiemo banner" />
 
-<a href="https://github.com/MagetoJ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Development+%F0%9F%9A%80;ERP+Systems+%26+Odoo+17%2F18+Enterprise+%F0%9F%8F%A2;Cloud+Architecture+%26+DevOps+%E2%98%81%EF%B8%8F;Offline-First+%26+Hardware+Integrations+%F0%9F%94%8C" alt="Typing animation" /></a>
+<a href="https://github.com/MagetoJ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Development+%F0%9F%9A%80;ERP+Systems+%26+Odoo+17%2F18+Enterprise+%F0%9F%8F%A2;Cloud+Architecture+%26+DevOps+%E2%98%81%EF%B8%8F;Offline-First+%26+Hardware+Integrations+%F0%9F%94%8C;PWA+%E2%86%92+Offline-Capable+APK+Builds+%F0%9F%93%B1" alt="Typing animation" /></a>
 
 <br/>
 
@@ -40,7 +40,8 @@ I'm a **results-driven Software Engineer and Odoo Techno-Functional Consultant**
 |:---:|:---|:---|
 | 🏢 | **ERP & Enterprise Systems** | Custom Odoo 17/18 Enterprise modules, QWeb reports, payroll and commission systems |
 | ⚡ | **Backend & Distributed Systems** | Async microservices in Python (FastAPI, Async SQLAlchemy) and scalable Node.js architectures optimized for high availability |
-| 🔌 | **Hardware & Offline-First Tech** | Web Bluetooth integrations with physical devices such as scales and printers |
+| 🔌 | **Hardware & Offline-First Tech** | Web Bluetooth integrations with physical devices such as scales and printers; **PWA → APK packaging for fully offline Android apps** |
+| 📱 | **Mobile App Delivery** | Turning progressive web apps into installable, offline-capable Android APKs with service workers, local storage and background sync |
 | ☁️ | **DevOps & Infrastructure** | Containerized multi-service stacks on Ubuntu servers, AWS, Render, Netlify and Supabase |
 | 🤖 | **Currently Exploring** | Multi-agent AI workflows with LangGraph and local Ollama |
 
@@ -50,7 +51,7 @@ I'm a **results-driven Software Engineer and Odoo Techno-Functional Consultant**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,js,react,nextjs,vite,tailwind,postgres,mongodb,supabase,docker,linux,ubuntu,aws,nginx,git,github,netlify&perline=10" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,js,react,nextjs,vite,tailwind,postgres,mongodb,supabase,docker,linux,ubuntu,aws,nginx,git,github,netlify,android&perline=10" alt="Tech stack icons" />
 
 </div>
 
@@ -61,6 +62,7 @@ I'm a **results-driven Software Engineer and Odoo Techno-Functional Consultant**
 | 🖥️ **Frontend** | React, Next.js, TypeScript, JavaScript, Vite, Tailwind CSS |
 | 🗄️ **Databases** | PostgreSQL, Supabase, MongoDB |
 | ☁️ **DevOps & Infrastructure** | Docker, Docker Compose, Linux (Ubuntu), Git/GitHub, AWS, Nginx |
+| 📱 **Mobile & Offline** | **PWA → APK packaging**, Service Workers, offline caching, background sync, installable Android builds |
 | 🔗 **Integrations & AI** | Web Bluetooth API, Africa's Talking SMS, LangChain, LangGraph |
 
 ---
@@ -90,7 +92,7 @@ I'm a **results-driven Software Engineer and Odoo Techno-Functional Consultant**
 
 | 🧬 Architecture | 📦 Deployment | 🎯 Specialization |
 |:---:|:---:|:---:|
-| Multi-Tenant SaaS<br/>Offline-First Systems<br/>Microservices | Containerized Docker Stacks<br/>Cloud-Native Platforms | Technical & Functional Odoo Customization<br/>Python Backends |
+| Multi-Tenant SaaS<br/>Offline-First Systems<br/>Microservices | Containerized Docker Stacks<br/>Cloud-Native Platforms<br/>**PWA → APK Android Builds** | Technical & Functional Odoo Customization<br/>Python Backends<br/>**Offline-Capable Mobile Apps** |
 
 </div>
 
@@ -110,6 +112,8 @@ I'm a **results-driven Software Engineer and Odoo Techno-Functional Consultant**
 ### 📬 Open for freelance and contract work
 
 **Odoo techno-functional consulting · Custom module development · High-impact engineering projects**
+
+**PWA-to-APK offline builds · Odoo techno-functional consulting · Custom module development · High-impact engineering projects**
 
 </div>
 
